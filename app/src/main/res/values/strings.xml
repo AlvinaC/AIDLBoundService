@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AIDLBoundService</string>
+    <string name="btn_gen_rand">Generate Random No</string>
+    <string name="txt_gen_rand">Here is your random no within 100</string>
+    <string name="service_connected">Service connected</string>
+    <string name="service_disconnected">Service disconnected</string>
+</resources>
