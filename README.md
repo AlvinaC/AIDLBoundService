@@ -1,5 +1,4 @@
-AIDLBoundService
-
+# AIDLBoundService
 
 This project demostrates the usage of AIDL in android.
 
